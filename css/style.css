@@ -12,3 +12,20 @@ body {}
     padding: 9px 25px;
     border: none;
 }
+
+.carousel-indicators [data-bs-target] {
+    background-color: black;
+}
+
+/* catagories */
+.bg-watch {
+    background-color: #ffc107;
+}
+
+.bg-bag {
+    background-color: #198754;
+}
+
+.bg-shoes {
+    background-color: #0d6efd;
+}
